@@ -1,16 +1,21 @@
-### Hi there 👋
 
-<!--
-**DSudre/DSudre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Hello, I'm Douglas, but you can call me Dois! Hehe
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I'm a undergraduate Statistics and Data Science studant.
+- I’m looking to collaborate on statistics, data science and data base.
+
+
+<div align="center">
+  <a href="https://github.com/DSudre">
+  <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=DSudre&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</div>
+
+<div align="center">
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+</div>
+
+##
+
