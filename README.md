@@ -1,6 +1,6 @@
 
 
-## Hello, I'm Douglas, but you can call me Dois! Hehe
+## Olá, seja bem vindo!
 
 - I'm a undergraduate Statistics and Data Science studant.
 - I’m looking to collaborate on statistics, data science and data base.
