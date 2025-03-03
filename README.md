@@ -2,8 +2,8 @@
 
 ## Salve!
 
-Olá, meu nome é Douglas!
-Sou formado em Estatística e Ciência de Dados (e, sim, também tenho um técnico em Química... mas confesso que não lembro quase nada disso 😂). Sou apaixonado por música, escuto praticamente tudo 🎶, esportes (principalmente lutas) e jogos, embora não jogue tanto quanto gostaria.
+-Olá, meu nome é Douglas!
+-Sou formado em Estatística e Ciência de Dados (e, sim, também tenho um técnico em Química... mas confesso que não lembro quase nada disso 😂). Sou apaixonado por música, escuto praticamente tudo 🎶, esportes (principalmente lutas) e jogos, embora não jogue tanto quanto gostaria.
 
 Junto com [@ivpinheiro], criei o GuaraData, um projeto feito para compartilhar conhecimento e discutir sobre o incrível mundo dos dados, ajudando, de alguma forma, quem quer crescer nessa área. Aqui, você vai encontrar conteúdos sobre:
 
