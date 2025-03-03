@@ -9,10 +9,14 @@ Sou formado em Estatística e Ciência de Dados (e, sim, também tenho um técni
 Junto com o brabo [@ivpinheiro](https://github.com/ivpinheiro), criei o GuaraData, um projeto feito para compartilhar conhecimento e discutir sobre o incrível mundo dos dados, ajudando, de alguma forma, quem quer crescer nessa área. Aqui, você vai encontrar conteúdos sobre:
 
 📊 Análise de Dados
-📈 Estatística
-🤖 Machine Learning
+
 🛠️ Engenharia de Dados
-✨ E muito mais!
+
+📈 Estatística
+
+🤖 Machine Learning
+
+Y algunas otras cositas más!
 
 Nosso objetivo é tornar o aprendizado acessível, promover discussões e impulsionar sua carreira e projetos.
 
