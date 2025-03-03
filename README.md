@@ -2,9 +2,11 @@
 
 ## Olá, seja bem vindo!
 
-- I'm a undergraduate Statistics and Data Science studant.
-- I’m looking to collaborate on statistics, data science and data base.
+-Sou formado em Estatística e Ciência de Dados.
 
+-Aqui você encontrará conteúdos sobre análise de dados, estatística, machine learning e temas relacionados, que podem ser úteis para sua carreira ou projetos.
+
+-Acesse [@GuaraData](https://guaradata.com.br/) para acompanhar as novidades!
 
 <div align="center">
   <a href="https://github.com/DSudre">
