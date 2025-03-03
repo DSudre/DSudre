@@ -2,11 +2,20 @@
 
 ## Salve!
 
--Sou formado em Estatística e Ciência de Dados.
+Olá, meu nome é Douglas!
+Sou formado em Estatística e Ciência de Dados (e, sim, também tenho um técnico em Química... mas confesso que não lembro quase nada disso 😂). Sou apaixonado por música, escuto praticamente tudo 🎶, esportes (principalmente lutas) e jogos, embora não jogue tanto quanto gostaria.
 
--Aqui você encontrará conteúdos sobre análise de dados, estatística, machine learning e temas relacionados, que podem ser úteis para sua carreira ou projetos.
+Junto com [@ivpinheiro], criei o GuaraData, um projeto feito para compartilhar conhecimento e discutir sobre o incrível mundo dos dados, ajudando, de alguma forma, quem quer crescer nessa área. Aqui, você vai encontrar conteúdos sobre:
 
--Acesse [@GuaraData](https://guaradata.com.br/) para acompanhar as novidades!
+📊 Análise de Dados
+📈 Estatística
+🤖 Machine Learning
+🛠️ Engenharia de Dados
+✨ E muito mais!
+
+Nosso objetivo é tornar o aprendizado acessível, promover discussões e impulsionar sua carreira e projetos.
+
+Acompanhe [@GuaraData](https://guaradata.com.br/) e venha discutir, aprender e ensinar com a gente! 
 
 <div align="center">
   <a href="https://github.com/DSudre">
