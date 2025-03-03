@@ -16,7 +16,7 @@ Junto com o brabo [@ivpinheiro](https://github.com/ivpinheiro), criei o GuaraDat
 
 🤖 Machine Learning
 
-Y algunas otras cositas más!
+E mais algumas outras coisas!
 
 Nosso objetivo é tornar o aprendizado acessível, promover discussões e impulsionar sua carreira e projetos.
 
